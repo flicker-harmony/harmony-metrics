@@ -1,0 +1,177 @@
+{"ip":"127.0.0.1","lvl":"info","msg":"running mem profiling","port":"8013","t":"2019-08-04T02:24:44.715342+03:00"}
+{"cache":16,"database":"db-127.0.0.1-9013/harmony_db_1","handles":16,"lvl":"info","msg":"Allocated cache and file handles","t":"2019-08-04T02:24:44.801734+03:00"}
+{"funcFile":"shardchains.go","funcLine":84,"funcName":"github.com/harmony-one/harmony/internal/shardchain.(*CollectionImpl).ShardChain","ip":"127.0.0.1","lvl":"info","msg":"initializing a new chain database","port":"9013","shardID":1,"t":"2019-08-04T02:24:45.027994+03:00"}
+{"funcFile":"node_genesis.go","funcLine":58,"funcName":"github.com/harmony-one/harmony/node.(*Node).SetupGenesisBlock","ip":"127.0.0.1","lvl":"info","msg":"setting up a brand new chain database","port":"9013","shardID":1,"t":"2019-08-04T02:24:45.049805+03:00"}
+{"lvl":"dbug","misses":0,"msg":"Trie cache stats after commit","t":"2019-08-04T02:24:45.05846+03:00","unloads":0}
+{"gcnodes":0,"gcsize":"0.00 B","gctime":"0s","livenodes":1,"livesize":"0.00 B","lvl":"info","msg":"Persisted trie from memory database","nodes":1,"size":"151.00 B","t":"2019-08-04T02:24:45.082032+03:00","time":"18.6359ms"}
+{"cache":16,"database":"db-127.0.0.1-9013/harmony_db_0","handles":16,"lvl":"info","msg":"Allocated cache and file handles","t":"2019-08-04T02:24:45.162999+03:00"}
+{"funcFile":"shardchains.go","funcLine":84,"funcName":"github.com/harmony-one/harmony/internal/shardchain.(*CollectionImpl).ShardChain","ip":"127.0.0.1","lvl":"info","msg":"initializing a new chain database","port":"9013","shardID":0,"t":"2019-08-04T02:24:45.314472+03:00"}
+{"funcFile":"node_genesis.go","funcLine":58,"funcName":"github.com/harmony-one/harmony/node.(*Node).SetupGenesisBlock","ip":"127.0.0.1","lvl":"info","msg":"setting up a brand new chain database","port":"9013","shardID":0,"t":"2019-08-04T02:24:45.319836+03:00"}
+{"lvl":"dbug","misses":0,"msg":"Trie cache stats after commit","t":"2019-08-04T02:24:45.320963+03:00","unloads":0}
+{"gcnodes":0,"gcsize":"0.00 B","gctime":"0s","livenodes":1,"livesize":"0.00 B","lvl":"info","msg":"Persisted trie from memory database","nodes":1,"size":"151.00 B","t":"2019-08-04T02:24:45.321128+03:00","time":"101.872µs"}
+{"ip":"127.0.0.1","lvl":"info","msg":"Got more transactions","num":1,"port":"9013","t":"2019-08-04T02:24:45.323726+03:00","totalPending":1}
+{"genesis block header":"\u0026{ParentHash:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] Coinbase:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] Root:[174 34 55 13 240 70 170 140 68 112 160 50 236 200 134 9 239 192 132 56 171 231 159 217 231 241 52 176 119 161 31 182] TxHash:[86 232 31 23 27 204 85 166 255 131 69 230 146 192 248 110 91 72 224 27 153 108 173 192 1 98 47 181 227 99 180 33] ReceiptHash:[86 232 31 23 27 204 85 166 255 131 69 230 146 192 248 110 91 72 224 27 153 108 173 192 1 98 47 181 227 99 180 33] Bloom:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] Number:+0 GasLimit:4712388 GasUsed:0 Time:+1561734000 Extra:[72 97 114 109 111 110 121 32 102 111 114 32 79 110 101 32 97 110 100 32 65 108 108 46 32 79 112 101 110 32 67 111 110 115 101 110 115 117 115 32 102 111 114 32 49 48 66 46] MixDigest:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] ViewID:+0 Epoch:+0 ShardID:1 LastCommitSignature:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] LastCommitBitmap:[] ShardStateHash:[131 49 79 225 199 70 198 33 194 162 72 165 254 178 54 130 249 97 206 54 155 13 158 212 232 200 42 91 123 155 189 110] Vrf:[] Vdf:[] ShardState:[249 1 255 249 1 252 1 249 1 248 248 70 148 222 182 255 254 32 247 228 208 35 107 186 151 73 121 169 206 160 178 91 152 176 64 55 158 237 121 237 130 190 191 180 49 8 148 253 51 182 163 248 65 58 120 220 77 67 185 141 10 220 158 246 159 50 133 223 5 234 171 159 44 229 247 34 127 140 185 32 232 9 248 70 148 208 32 218 118 107 43 11 89 14 7 46 199 193 27 74 191 179 108 36 219 176 238 36 116 249 60 186 146 65 86 46 252 116 117 172 39 33 171 8 153 237 248 247 241 21 166 86 192 193 249 239 130 3 173 214 120 6 72 120 209 116 187 71 143 162 230 99 5 2 248 70 148 204 22 164 27 12 235 54 185 139 30 221 219 232 160 93 110 226 99 97 148 176 119 111 59 135 4 244 225 9 42 48 42 96 232 79 129 228 118 194 18 214 244 88 9 43 105 109 244 32 234 25 255 132 166 23 158 142 35 208 144 185 41 125 192 65 96 11 193 0 248 70 148 235 205 22 232 193 216 244 147 186 4 233 154 86 71 65 34 216 26 156 88 176 196 228 112 139 108 242 162 206 235 89 152 22 119 233 130 30 235 175 197 207 72 63 181 54 74 40 250 96 76 192 206 105 190 238 212 15 63 3 129 92 158 25 111 218 236 95 16 151 248 70 148 213 14 41 165 201 171 242 22 19 217 174 176 1 236 68 37 43 122 205 224 176 73 209 87 67 179 99 52 57 159 153 133 254 176 117 52 48 162 178 135 178 214 139 132 73 91 187 21 56 24 84 203 240 27 202 157 29 159 76 156 143 24 80 155 43 250 107 212 15 248 70 148 225 33 126 42 72 97 221 93 80 152 61 173 50 71 75 191 214 167 51 63 176 165 71 169 191 111 221 228 244 147 76 222 33 71 55 72 134 26 60 192 254 139 187 94 87 34 90 41 244 131 176 91 114 83 31 0 47 129 135 103 87 67 216 25 201 85 168 97 0 248 70 148 81 70 80 202 48 179 199 159 105 62 20 34 1 21 67 66 54 212 74 235 176 99 244 121 242 73 197 159 4 134 253 168 202 162 255 178 71 32 148 137 218 224 9 223 222 97 68 255 56 195 112 35 9 99 211 96 223 253 49 140 251 38 194 19 50 14 137 165 18]}","ip":"127.0.0.1","lvl":"info","msg":"Genesis block hash","port":"9013","t":"2019-08-04T02:24:45.625538+03:00"}
+{"address":"one1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqquzw7vz","ip":"127.0.0.1","lvl":"info","msg":"node account set","port":"9013","t":"2019-08-04T02:24:45.626349+03:00"}
+{"height":0,"ip":"127.0.0.1","lvl":"info","msg":"Init Blockchain","port":"9013","t":"2019-08-04T02:24:45.663897+03:00"}
+{"BeaconGroupID":"","BlsPubKey":"63f479f249c59f0486fda8caa2ffb247209489dae009dfde6144ff38c370230963d360dffd318cfb26c213320e89a512","ClientGroupID":"harmony/0.0.1/client/shard/1","Role":"Validator","ShardGroupID":"harmony/0.0.1/node/shard/1","ShardID":1,"ip":"127.0.0.1","lvl":"info","msg":"==== New Harmony Node ====","multiaddress":"/ip4/127.0.0.1/tcp/9013/p2p/QmXutMgeGxQHd3ns5ftqZEGoCnfGiYQioD9HtH8XzqNeYb","port":"9013","t":"2019-08-04T02:24:45.663996+03:00"}
+{"ip":"127.0.0.1","lvl":"info","msg":"[SYNC] support_syncing: StartSyncingServer","port":"9013","t":"2019-08-04T02:24:45.66413+03:00"}
+{"lvl":"dbug","msg":"HTTP registered","namespace":"hmy","t":"2019-08-04T02:24:45.666097+03:00"}
+{"lvl":"dbug","msg":"HTTP registered","namespace":"hmy","t":"2019-08-04T02:24:45.666212+03:00"}
+{"lvl":"dbug","msg":"HTTP registered","namespace":"hmy","t":"2019-08-04T02:24:45.666336+03:00"}
+{"lvl":"dbug","msg":"HTTP registered","namespace":"hmy","t":"2019-08-04T02:24:45.66638+03:00"}
+{"lvl":"dbug","msg":"HTTP registered","namespace":"hmy","t":"2019-08-04T02:24:45.666419+03:00"}
+{"lvl":"dbug","msg":"HTTP registered","namespace":"hmy","t":"2019-08-04T02:24:45.66652+03:00"}
+{"lvl":"dbug","msg":"HTTP registered","namespace":"net","t":"2019-08-04T02:24:45.666567+03:00"}
+{"cors":"*","funcFile":"rpc.go","funcLine":86,"funcName":"github.com/harmony-one/harmony/node.(*Node).startHTTP","ip":"127.0.0.1","lvl":"info","msg":"HTTP endpoint opened","port":"9013","t":"2019-08-04T02:24:45.66669+03:00","url":"http://:9513","vhosts":"*"}
+{"lvl":"dbug","msg":"WebSocket registered","namespace":"hmy","service":"\u0026{b:0xc0002660f0}","t":"2019-08-04T02:24:45.666763+03:00"}
+{"lvl":"dbug","msg":"WebSocket registered","namespace":"hmy","service":"\u0026{b:0xc0002660f0}","t":"2019-08-04T02:24:45.666832+03:00"}
+{"lvl":"dbug","msg":"WebSocket registered","namespace":"hmy","service":"\u0026{b:0xc0002660f0 nonceLock:0xc00061e2a0}","t":"2019-08-04T02:24:45.666907+03:00"}
+{"lvl":"dbug","msg":"WebSocket registered","namespace":"hmy","service":"\u0026{am:\u003cnil\u003e}","t":"2019-08-04T02:24:45.666983+03:00"}
+{"lvl":"dbug","msg":"WebSocket registered","namespace":"hmy","service":"\u0026{b:0xc0002660f0}","t":"2019-08-04T02:24:45.667025+03:00"}
+{"lvl":"dbug","msg":"WebSocket registered","namespace":"hmy","service":"\u0026{backend:0xc0002660f0 mux:0xc000637fb0 quit:\u003cnil\u003e chainDb:0xc0002c8840 events:0xc0002980a0 filtersMu:{state:0 sema:0} filters:map[]}","t":"2019-08-04T02:24:45.66709+03:00"}
+{"lvl":"dbug","msg":"WebSocket registered","namespace":"net","service":"\u0026{net:0xc0004be120 networkVersion:1}","t":"2019-08-04T02:24:45.667155+03:00"}
+{"lvl":"dbug","msg":"Allowed origin(s) for WS RPC interface [*]\n","t":"2019-08-04T02:24:45.667247+03:00"}
+{"funcFile":"rpc.go","funcLine":118,"funcName":"github.com/harmony-one/harmony/node.(*Node).startWS","ip":"127.0.0.1","lvl":"info","msg":"WebSocket endpoint opened","port":"9013","t":"2019-08-04T02:24:45.667301+03:00","url":"ws://[::]:9813"}
+{"funcFile":"node_syncing.go","funcLine":126,"funcName":"github.com/harmony-one/harmony/node.(*Node).DoSyncing","ip":"127.0.0.1","lvl":"dbug","msg":"[SYNC] initialized state sync","port":"9013","syncID":"[118 110 65 106 97 73 114 82 85 108 88 86 71 90 102 69 73 98 81 112]","t":"2019-08-04T02:24:55.669205+03:00"}
+{"funcFile":"node_syncing.go","funcLine":134,"funcName":"github.com/harmony-one/harmony/node.(*Node).DoSyncing","ip":"127.0.0.1","len":12,"lvl":"dbug","msg":"[SYNC] Get Active Peers","port":"9013","syncID":"[118 110 65 106 97 73 114 82 85 108 88 86 71 90 102 69 73 98 81 112]","t":"2019-08-04T02:24:55.670505+03:00"}
+{"funcFile":"accessors_chain.go","funcLine":467,"funcName":"github.com/harmony-one/harmony/core/rawdb.WriteLastCommits","ip":"127.0.0.1","lvl":"info","msg":"wrote last commits","numShards":97,"port":"9013","t":"2019-08-04T02:25:24.12537+03:00"}
+{"lvl":"dbug","misses":0,"msg":"Trie cache stats after commit","t":"2019-08-04T02:25:24.126004+03:00","unloads":0}
+{"gcnodes":0,"gcsize":"0.00 B","gctime":"0s","livenodes":1,"livesize":"0.00 B","lvl":"dbug","msg":"Persisted trie from memory database","nodes":8,"size":"1.23 kB","t":"2019-08-04T02:25:24.126099+03:00","time":"53.541µs"}
+{"ip":"127.0.0.1","lvl":"dbug","msg":"[SYNC] register peerID success","port":"9103","t":"2019-08-04T02:25:25.676284+03:00"}
+{"funcFile":"accessors_chain.go","funcLine":467,"funcName":"github.com/harmony-one/harmony/core/rawdb.WriteLastCommits","ip":"127.0.0.1","lvl":"info","msg":"wrote last commits","numShards":97,"port":"9013","t":"2019-08-04T02:25:32.296371+03:00"}
+{"lvl":"dbug","misses":0,"msg":"Trie cache stats after commit","t":"2019-08-04T02:25:32.300072+03:00","unloads":0}
+{"gcnodes":0,"gcsize":"0.00 B","gctime":"0s","livenodes":1,"livesize":"0.00 B","lvl":"dbug","msg":"Persisted trie from memory database","nodes":11,"size":"1.68 kB","t":"2019-08-04T02:25:32.300272+03:00","time":"114.562µs"}
+{"funcFile":"accessors_chain.go","funcLine":467,"funcName":"github.com/harmony-one/harmony/core/rawdb.WriteLastCommits","ip":"127.0.0.1","lvl":"info","msg":"wrote last commits","numShards":97,"port":"9013","t":"2019-08-04T02:25:40.485049+03:00"}
+{"lvl":"dbug","misses":0,"msg":"Trie cache stats after commit","t":"2019-08-04T02:25:40.488495+03:00","unloads":0}
+{"gcnodes":0,"gcsize":"0.00 B","gctime":"0s","livenodes":1,"livesize":"0.00 B","lvl":"dbug","msg":"Persisted trie from memory database","nodes":10,"size":"1.53 kB","t":"2019-08-04T02:25:40.48864+03:00","time":"87.801µs"}
+{"funcFile":"accessors_chain.go","funcLine":467,"funcName":"github.com/harmony-one/harmony/core/rawdb.WriteLastCommits","ip":"127.0.0.1","lvl":"info","msg":"wrote last commits","numShards":97,"port":"9013","t":"2019-08-04T02:25:48.680239+03:00"}
+{"lvl":"dbug","misses":0,"msg":"Trie cache stats after commit","t":"2019-08-04T02:25:48.683569+03:00","unloads":0}
+{"gcnodes":0,"gcsize":"0.00 B","gctime":"0s","livenodes":1,"livesize":"0.00 B","lvl":"dbug","msg":"Persisted trie from memory database","nodes":10,"size":"1.53 kB","t":"2019-08-04T02:25:48.683659+03:00","time":"54.058µs"}
+{"funcFile":"accessors_chain.go","funcLine":467,"funcName":"github.com/harmony-one/harmony/core/rawdb.WriteLastCommits","ip":"127.0.0.1","lvl":"info","msg":"wrote last commits","numShards":97,"port":"9013","t":"2019-08-04T02:25:56.863469+03:00"}
+{"lvl":"dbug","misses":0,"msg":"Trie cache stats after commit","t":"2019-08-04T02:25:56.867341+03:00","unloads":0}
+{"gcnodes":0,"gcsize":"0.00 B","gctime":"0s","livenodes":1,"livesize":"0.00 B","lvl":"dbug","msg":"Persisted trie from memory database","nodes":10,"size":"1.53 kB","t":"2019-08-04T02:25:56.867445+03:00","time":"62.485µs"}
+{"funcFile":"accessors_chain.go","funcLine":467,"funcName":"github.com/harmony-one/harmony/core/rawdb.WriteLastCommits","ip":"127.0.0.1","lvl":"info","msg":"wrote last commits","numShards":97,"port":"9013","t":"2019-08-04T02:26:04.871674+03:00"}
+{"lvl":"dbug","misses":0,"msg":"Trie cache stats after commit","t":"2019-08-04T02:26:04.875747+03:00","unloads":0}
+{"gcnodes":0,"gcsize":"0.00 B","gctime":"0s","livenodes":1,"livesize":"0.00 B","lvl":"dbug","msg":"Persisted trie from memory database","nodes":10,"size":"1.53 kB","t":"2019-08-04T02:26:04.875894+03:00","time":"83.012µs"}
+{"funcFile":"accessors_chain.go","funcLine":467,"funcName":"github.com/harmony-one/harmony/core/rawdb.WriteLastCommits","ip":"127.0.0.1","lvl":"info","msg":"wrote last commits","numShards":97,"port":"9013","t":"2019-08-04T02:26:13.065765+03:00"}
+{"lvl":"dbug","misses":0,"msg":"Trie cache stats after commit","t":"2019-08-04T02:26:13.069305+03:00","unloads":0}
+{"gcnodes":0,"gcsize":"0.00 B","gctime":"0s","livenodes":1,"livesize":"0.00 B","lvl":"dbug","msg":"Persisted trie from memory database","nodes":10,"size":"1.54 kB","t":"2019-08-04T02:26:13.069495+03:00","time":"147.355µs"}
+{"funcFile":"accessors_chain.go","funcLine":467,"funcName":"github.com/harmony-one/harmony/core/rawdb.WriteLastCommits","ip":"127.0.0.1","lvl":"info","msg":"wrote last commits","numShards":97,"port":"9013","t":"2019-08-04T02:26:21.072369+03:00"}
+{"lvl":"dbug","misses":0,"msg":"Trie cache stats after commit","t":"2019-08-04T02:26:21.075788+03:00","unloads":0}
+{"gcnodes":0,"gcsize":"0.00 B","gctime":"0s","livenodes":1,"livesize":"0.00 B","lvl":"dbug","msg":"Persisted trie from memory database","nodes":10,"size":"1.54 kB","t":"2019-08-04T02:26:21.07593+03:00","time":"95.669µs"}
+{"funcFile":"accessors_chain.go","funcLine":467,"funcName":"github.com/harmony-one/harmony/core/rawdb.WriteLastCommits","ip":"127.0.0.1","lvl":"info","msg":"wrote last commits","numShards":97,"port":"9013","t":"2019-08-04T02:26:29.26826+03:00"}
+{"lvl":"dbug","misses":0,"msg":"Trie cache stats after commit","t":"2019-08-04T02:26:29.272503+03:00","unloads":0}
+{"gcnodes":0,"gcsize":"0.00 B","gctime":"0s","livenodes":1,"livesize":"0.00 B","lvl":"dbug","msg":"Persisted trie from memory database","nodes":10,"size":"1.54 kB","t":"2019-08-04T02:26:29.272653+03:00","time":"106.195µs"}
+{"ip":"127.0.0.1","lvl":"warn","msg":"[SYNC] SendNewBlockToUnsync to peer timeout","peerID":"TkUUinhRBEMLvgBNsRFE","port":"9013","t":"2019-08-04T02:26:29.278961+03:00"}
+{"funcFile":"accessors_chain.go","funcLine":467,"funcName":"github.com/harmony-one/harmony/core/rawdb.WriteLastCommits","ip":"127.0.0.1","lvl":"info","msg":"wrote last commits","numShards":97,"port":"9013","t":"2019-08-04T02:26:37.269757+03:00"}
+{"lvl":"dbug","misses":0,"msg":"Trie cache stats after commit","t":"2019-08-04T02:26:37.273422+03:00","unloads":0}
+{"gcnodes":0,"gcsize":"0.00 B","gctime":"0s","livenodes":1,"livesize":"0.00 B","lvl":"dbug","msg":"Persisted trie from memory database","nodes":10,"size":"1.54 kB","t":"2019-08-04T02:26:37.273549+03:00","time":"89.587µs"}
+{"funcFile":"accessors_chain.go","funcLine":467,"funcName":"github.com/harmony-one/harmony/core/rawdb.WriteLastCommits","ip":"127.0.0.1","lvl":"info","msg":"wrote last commits","numShards":97,"port":"9013","t":"2019-08-04T02:26:45.464881+03:00"}
+{"lvl":"dbug","misses":0,"msg":"Trie cache stats after commit","t":"2019-08-04T02:26:45.46924+03:00","unloads":0}
+{"gcnodes":0,"gcsize":"0.00 B","gctime":"0s","livenodes":1,"livesize":"0.00 B","lvl":"dbug","msg":"Persisted trie from memory database","nodes":10,"size":"1.54 kB","t":"2019-08-04T02:26:45.469389+03:00","time":"83.377µs"}
+{"funcFile":"accessors_chain.go","funcLine":467,"funcName":"github.com/harmony-one/harmony/core/rawdb.WriteLastCommits","ip":"127.0.0.1","lvl":"info","msg":"wrote last commits","numShards":97,"port":"9013","t":"2019-08-04T02:26:53.647819+03:00"}
+{"lvl":"dbug","misses":0,"msg":"Trie cache stats after commit","t":"2019-08-04T02:26:53.650919+03:00","unloads":0}
+{"gcnodes":0,"gcsize":"0.00 B","gctime":"0s","livenodes":1,"livesize":"0.00 B","lvl":"dbug","msg":"Persisted trie from memory database","nodes":10,"size":"1.54 kB","t":"2019-08-04T02:26:53.651008+03:00","time":"56.592µs"}
+{"funcFile":"accessors_chain.go","funcLine":467,"funcName":"github.com/harmony-one/harmony/core/rawdb.WriteLastCommits","ip":"127.0.0.1","lvl":"info","msg":"wrote last commits","numShards":97,"port":"9013","t":"2019-08-04T02:27:01.661731+03:00"}
+{"lvl":"dbug","misses":0,"msg":"Trie cache stats after commit","t":"2019-08-04T02:27:01.66561+03:00","unloads":0}
+{"gcnodes":0,"gcsize":"0.00 B","gctime":"0s","livenodes":1,"livesize":"0.00 B","lvl":"dbug","msg":"Persisted trie from memory database","nodes":10,"size":"1.54 kB","t":"2019-08-04T02:27:01.665757+03:00","time":"73.947µs"}
+{"funcFile":"accessors_chain.go","funcLine":467,"funcName":"github.com/harmony-one/harmony/core/rawdb.WriteLastCommits","ip":"127.0.0.1","lvl":"info","msg":"wrote last commits","numShards":97,"port":"9013","t":"2019-08-04T02:27:09.863138+03:00"}
+{"lvl":"dbug","misses":0,"msg":"Trie cache stats after commit","t":"2019-08-04T02:27:09.868512+03:00","unloads":0}
+{"gcnodes":0,"gcsize":"0.00 B","gctime":"0s","livenodes":1,"livesize":"0.00 B","lvl":"dbug","msg":"Persisted trie from memory database","nodes":10,"size":"1.54 kB","t":"2019-08-04T02:27:09.86869+03:00","time":"102.437µs"}
+{"alloc":17,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":11,"port":"9013","sys":78,"t":"2019-08-04T02:29:44.731007+03:00","totalalloc":52}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":14,"port":"9013","sys":78,"t":"2019-08-04T02:34:44.72897+03:00","totalalloc":56}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":15,"port":"9013","sys":78,"t":"2019-08-04T02:34:44.730915+03:00","totalalloc":56}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":15,"port":"9013","sys":78,"t":"2019-08-04T02:34:44.732087+03:00","totalalloc":56}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":17,"port":"9013","sys":78,"t":"2019-08-04T02:39:44.730885+03:00","totalalloc":60}
+{"alloc":20,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":19,"port":"9013","sys":78,"t":"2019-08-04T14:45:35.059212+03:00","totalalloc":67}
+{"alloc":20,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":19,"port":"9013","sys":78,"t":"2019-08-04T14:45:35.0604+03:00","totalalloc":67}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":20,"port":"9013","sys":78,"t":"2019-08-04T14:45:35.068183+03:00","totalalloc":67}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":22,"port":"9013","sys":78,"t":"2019-08-04T14:50:35.066911+03:00","totalalloc":71}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":24,"port":"9013","sys":78,"t":"2019-08-04T14:55:35.064094+03:00","totalalloc":74}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":25,"port":"9013","sys":78,"t":"2019-08-04T14:55:35.066199+03:00","totalalloc":74}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":25,"port":"9013","sys":78,"t":"2019-08-04T14:55:35.074333+03:00","totalalloc":74}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":27,"port":"9013","sys":78,"t":"2019-08-04T23:36:14.922222+03:00","totalalloc":81}
+{"alloc":17,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":29,"port":"9013","sys":78,"t":"2019-08-04T23:41:14.909553+03:00","totalalloc":85}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":30,"port":"9013","sys":78,"t":"2019-08-04T23:41:14.912484+03:00","totalalloc":85}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":30,"port":"9013","sys":78,"t":"2019-08-04T23:41:14.923734+03:00","totalalloc":85}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":32,"port":"9013","sys":78,"t":"2019-08-04T23:46:14.921817+03:00","totalalloc":88}
+{"alloc":17,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":34,"port":"9013","sys":78,"t":"2019-08-04T23:51:14.933152+03:00","totalalloc":92}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":35,"port":"9013","sys":78,"t":"2019-08-04T23:51:14.936727+03:00","totalalloc":92}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":35,"port":"9013","sys":78,"t":"2019-08-04T23:51:14.945486+03:00","totalalloc":92}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":37,"port":"9013","sys":78,"t":"2019-08-04T23:56:14.943034+03:00","totalalloc":95}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":39,"port":"9013","sys":78,"t":"2019-08-05T00:01:14.936307+03:00","totalalloc":99}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":40,"port":"9013","sys":78,"t":"2019-08-05T00:01:14.939779+03:00","totalalloc":99}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":40,"port":"9013","sys":78,"t":"2019-08-05T00:01:14.94448+03:00","totalalloc":99}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":42,"port":"9013","sys":78,"t":"2019-08-05T00:06:14.945997+03:00","totalalloc":102}
+{"alloc":17,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":44,"port":"9013","sys":78,"t":"2019-08-05T00:11:14.956173+03:00","totalalloc":106}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":45,"port":"9013","sys":78,"t":"2019-08-05T00:11:14.958785+03:00","totalalloc":106}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":45,"port":"9013","sys":78,"t":"2019-08-05T00:11:14.970637+03:00","totalalloc":106}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":47,"port":"9013","sys":78,"t":"2019-08-05T00:16:14.983238+03:00","totalalloc":109}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":49,"port":"9013","sys":78,"t":"2019-08-05T00:21:14.964872+03:00","totalalloc":112}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":50,"port":"9013","sys":78,"t":"2019-08-05T00:21:14.968774+03:00","totalalloc":112}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":50,"port":"9013","sys":78,"t":"2019-08-05T00:21:14.9815+03:00","totalalloc":112}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":52,"port":"9013","sys":78,"t":"2019-08-05T00:26:14.984771+03:00","totalalloc":116}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":54,"port":"9013","sys":78,"t":"2019-08-05T00:31:14.964777+03:00","totalalloc":119}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":55,"port":"9013","sys":78,"t":"2019-08-05T00:31:14.967068+03:00","totalalloc":119}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":55,"port":"9013","sys":78,"t":"2019-08-05T00:31:14.985223+03:00","totalalloc":119}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":57,"port":"9013","sys":78,"t":"2019-08-05T00:36:14.987381+03:00","totalalloc":123}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":59,"port":"9013","sys":78,"t":"2019-08-05T00:41:14.999686+03:00","totalalloc":127}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":60,"port":"9013","sys":78,"t":"2019-08-05T00:41:15.002564+03:00","totalalloc":127}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":60,"port":"9013","sys":78,"t":"2019-08-05T00:41:15.024359+03:00","totalalloc":127}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":62,"port":"9013","sys":78,"t":"2019-08-05T00:46:15.027323+03:00","totalalloc":130}
+{"alloc":17,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":64,"port":"9013","sys":78,"t":"2019-08-05T00:51:15.001385+03:00","totalalloc":134}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":65,"port":"9013","sys":78,"t":"2019-08-05T00:51:15.004275+03:00","totalalloc":134}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":65,"port":"9013","sys":78,"t":"2019-08-05T00:51:15.026181+03:00","totalalloc":134}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":67,"port":"9013","sys":78,"t":"2019-08-05T00:56:15.027426+03:00","totalalloc":137}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":69,"port":"9013","sys":78,"t":"2019-08-05T01:01:15.004887+03:00","totalalloc":140}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":70,"port":"9013","sys":78,"t":"2019-08-05T01:01:15.009025+03:00","totalalloc":140}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":70,"port":"9013","sys":78,"t":"2019-08-05T01:01:15.030464+03:00","totalalloc":140}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":72,"port":"9013","sys":78,"t":"2019-08-05T01:10:58.947009+03:00","totalalloc":147}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":74,"port":"9013","sys":78,"t":"2019-08-05T01:15:58.920263+03:00","totalalloc":150}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":75,"port":"9013","sys":78,"t":"2019-08-05T01:15:58.923446+03:00","totalalloc":150}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":75,"port":"9013","sys":78,"t":"2019-08-05T01:15:58.947045+03:00","totalalloc":150}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":77,"port":"9013","sys":78,"t":"2019-08-05T01:20:58.947492+03:00","totalalloc":153}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":79,"port":"9013","sys":78,"t":"2019-08-05T01:25:58.92306+03:00","totalalloc":157}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":80,"port":"9013","sys":78,"t":"2019-08-05T01:25:58.926431+03:00","totalalloc":157}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":80,"port":"9013","sys":78,"t":"2019-08-05T01:25:58.94997+03:00","totalalloc":157}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":82,"port":"9013","sys":78,"t":"2019-08-05T01:30:58.951861+03:00","totalalloc":160}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":84,"port":"9013","sys":78,"t":"2019-08-05T01:35:58.955276+03:00","totalalloc":164}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":85,"port":"9013","sys":78,"t":"2019-08-05T01:35:58.958622+03:00","totalalloc":164}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":85,"port":"9013","sys":78,"t":"2019-08-05T01:35:58.981299+03:00","totalalloc":164}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":87,"port":"9013","sys":78,"t":"2019-08-05T01:40:58.981376+03:00","totalalloc":167}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":89,"port":"9013","sys":78,"t":"2019-08-05T01:45:58.961865+03:00","totalalloc":171}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":90,"port":"9013","sys":78,"t":"2019-08-05T01:45:58.965469+03:00","totalalloc":171}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":90,"port":"9013","sys":78,"t":"2019-08-05T01:45:58.984681+03:00","totalalloc":171}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":92,"port":"9013","sys":78,"t":"2019-08-05T01:50:58.985365+03:00","totalalloc":174}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":94,"port":"9013","sys":78,"t":"2019-08-05T01:55:58.968885+03:00","totalalloc":177}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":95,"port":"9013","sys":78,"t":"2019-08-05T01:55:58.973204+03:00","totalalloc":177}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":95,"port":"9013","sys":78,"t":"2019-08-05T01:55:58.986967+03:00","totalalloc":177}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":97,"port":"9013","sys":78,"t":"2019-08-05T02:00:59.023008+03:00","totalalloc":181}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":99,"port":"9013","sys":78,"t":"2019-08-05T02:05:59.003766+03:00","totalalloc":184}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":100,"port":"9013","sys":78,"t":"2019-08-05T02:05:59.008295+03:00","totalalloc":184}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":100,"port":"9013","sys":78,"t":"2019-08-05T02:05:59.025901+03:00","totalalloc":184}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":102,"port":"9013","sys":78,"t":"2019-08-05T02:10:59.027291+03:00","totalalloc":188}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":104,"port":"9013","sys":78,"t":"2019-08-05T02:15:59.008929+03:00","totalalloc":191}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":105,"port":"9013","sys":78,"t":"2019-08-05T02:15:59.013031+03:00","totalalloc":191}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":105,"port":"9013","sys":78,"t":"2019-08-05T02:15:59.027839+03:00","totalalloc":191}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":107,"port":"9013","sys":78,"t":"2019-08-05T02:20:59.02958+03:00","totalalloc":195}
+{"alloc":17,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":109,"port":"9013","sys":78,"t":"2019-08-05T02:25:59.037746+03:00","totalalloc":198}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":110,"port":"9013","sys":78,"t":"2019-08-05T02:25:59.041576+03:00","totalalloc":198}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":110,"port":"9013","sys":78,"t":"2019-08-05T02:25:59.058159+03:00","totalalloc":198}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":112,"port":"9013","sys":78,"t":"2019-08-05T02:30:59.063438+03:00","totalalloc":201}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":114,"port":"9013","sys":78,"t":"2019-08-05T02:35:59.044298+03:00","totalalloc":205}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":115,"port":"9013","sys":78,"t":"2019-08-05T02:35:59.046211+03:00","totalalloc":205}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":115,"port":"9013","sys":78,"t":"2019-08-05T02:35:59.062834+03:00","totalalloc":205}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":117,"port":"9013","sys":78,"t":"2019-08-05T02:40:59.066437+03:00","totalalloc":209}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":119,"port":"9013","sys":78,"t":"2019-08-05T02:45:59.044746+03:00","totalalloc":212}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":120,"port":"9013","sys":78,"t":"2019-08-05T02:45:59.047287+03:00","totalalloc":212}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":120,"port":"9013","sys":78,"t":"2019-08-05T02:45:59.07024+03:00","totalalloc":212}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":122,"port":"9013","sys":78,"t":"2019-08-05T02:50:59.072459+03:00","totalalloc":215}
+{"alloc":17,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":124,"port":"9013","sys":78,"t":"2019-08-05T02:55:59.072489+03:00","totalalloc":218}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":125,"port":"9013","sys":78,"t":"2019-08-05T02:55:59.076738+03:00","totalalloc":218}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":125,"port":"9013","sys":78,"t":"2019-08-05T02:55:59.098349+03:00","totalalloc":218}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":127,"port":"9013","sys":78,"t":"2019-08-05T03:00:59.099918+03:00","totalalloc":222}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats before GC","numgc":129,"port":"9013","sys":78,"t":"2019-08-05T03:05:59.078332+03:00","totalalloc":225}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats after GC","numgc":130,"port":"9013","sys":78,"t":"2019-08-05T03:05:59.080635+03:00","totalalloc":225}
+{"alloc":15,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":130,"port":"9013","sys":78,"t":"2019-08-05T03:05:59.102853+03:00","totalalloc":225}
+{"alloc":16,"ip":"127.0.0.1","lvl":"info","msg":"Memory stats","numgc":132,"port":"9013","sys":78,"t":"2019-08-05T03:10:59.107036+03:00","totalalloc":229}

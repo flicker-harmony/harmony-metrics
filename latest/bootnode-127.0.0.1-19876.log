@@ -1,0 +1,75 @@
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-15T23:58:18.27456+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-15T23:58:18.274971+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-15T23:58:18.275042+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-16T01:32:12.173007+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-16T01:32:12.173406+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-16T01:32:12.17351+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-16T01:34:15.569577+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-16T01:34:15.570026+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-16T01:34:15.570088+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-16T01:44:47.001908+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-16T01:44:47.002398+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-16T01:44:47.002481+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-16T01:54:01.087978+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-16T01:54:01.088846+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-16T01:54:01.089007+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-16T02:03:59.342772+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-16T02:03:59.343286+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-16T02:03:59.343453+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-16T02:14:16.232227+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-16T02:14:16.232577+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-16T02:14:16.232671+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-16T02:23:12.056203+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-16T02:23:12.056537+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-16T02:23:12.056638+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-16T08:04:38.737573+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-16T08:04:38.738224+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-16T08:04:38.738333+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-16T21:24:59.076667+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-16T21:24:59.07738+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-16T21:24:59.077549+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-18T01:03:19.638592+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-18T01:03:19.639007+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-18T01:03:19.639116+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-18T04:14:59.314617+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-18T04:14:59.315305+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-18T04:14:59.315396+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-18T05:11:16.181018+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-18T05:11:16.181703+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-18T05:11:16.181795+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-19T01:52:45.649998+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-19T01:52:45.65078+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-19T01:52:45.650854+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-19T02:04:58.660925+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-19T02:04:58.661653+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-19T02:04:58.661749+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-19T02:10:17.609599+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-19T02:10:17.610673+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-19T02:10:17.610803+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-19T02:11:48.260323+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-19T02:11:48.260671+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-19T02:11:48.260772+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-19T03:03:27.364006+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-19T03:03:27.364558+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-19T03:03:27.364632+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-19T03:10:47.381604+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-19T03:10:47.381863+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-19T03:10:47.381953+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-19T03:11:09.875859+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-19T03:11:09.876126+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-19T03:11:09.876205+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-19T03:23:10.750937+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-19T03:23:10.751706+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-19T03:23:10.751799+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-19T03:29:46.673288+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-19T03:29:46.674068+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-19T03:29:46.674191+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-19T04:00:20.181541+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-19T04:00:20.182241+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-19T04:00:20.182327+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-19T04:17:20.314966+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-19T04:17:20.315605+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-19T04:17:20.315699+03:00"}
+{"addr":"/ip4/0.0.0.0/tcp/19876","hostID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","id":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"dbug","msg":"HostV2 is up!","port":"19876","t":"2019-07-20T08:06:28.598173+03:00"}
+{"PeerID":"Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","ip":"127.0.0.1","lvl":"info","msg":"NewHost","port":"19876","self":"127.0.0.1:19876","t":"2019-07-20T08:06:28.598492+03:00"}
+{"BN_MA":"/ip4/127.0.0.1/tcp/19876/p2p/Qmc1V6W7BwX8Ugb42Ti8RnXF1rY5PF7nnZ6bKBryCgi6cv","lvl":"info","msg":"bootnode","t":"2019-07-20T08:06:28.598589+03:00"}
